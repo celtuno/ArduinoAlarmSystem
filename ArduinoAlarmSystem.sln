@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoAlarmSystem", "ArduinoAlarmSystem\ArduinoAlarmSystem.csproj", "{F06C177B-9A7F-4663-BCBD-2AF5E672EFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06C177B-9A7F-4663-BCBD-2AF5E672EFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06C177B-9A7F-4663-BCBD-2AF5E672EFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06C177B-9A7F-4663-BCBD-2AF5E672EFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06C177B-9A7F-4663-BCBD-2AF5E672EFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E67EEF-10ED-4801-B07B-EC36A5BFCE5D}
+	EndGlobalSection
+EndGlobal
